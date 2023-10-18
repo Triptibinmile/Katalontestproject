@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_This is a dummy website for Web Automatio_ab7216</name>
+   <tag></tag>
+   <elementGuidId>bc9ff5e9-e189-4258-871e-12879a2ef751</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='entry_217838']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.m-0.font-size-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>05a06746-cfbe-48e3-a499-ef1dc3822aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0 font-size-sm</value>
+      <webElementGuid>8805998c-5ae0-4194-abd7-f257454a0bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This is a dummy website for Web Automation Testing </value>
+      <webElementGuid>a043e87a-ba77-474d-94cb-3da27d2d9791</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;entry_217838&quot;)/p[@class=&quot;m-0 font-size-sm&quot;]</value>
+      <webElementGuid>d7794386-6782-4e28-981f-cdebb6fb9a30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='entry_217838']/p</value>
+      <webElementGuid>c5f72d92-2691-4948-a623-899cafc091d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Categories'])[3]/following::p[1]</value>
+      <webElementGuid>bd3f4afc-b792-4fc5-becc-70f57b23f5e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::p[1]</value>
+      <webElementGuid>dc197c21-706e-45f9-b6e2-3c1f9099d66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/p</value>
+      <webElementGuid>209d0f19-2ca5-4262-928e-a84204a70d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'This is a dummy website for Web Automation Testing ' or . = 'This is a dummy website for Web Automation Testing ')]</value>
+      <webElementGuid>0294eb9d-9a25-4a32-8bd0-b0bc03c5563c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Add to Cart_fas fa-heart_1_2</name>
+   <tag></tag>
+   <elementGuidId>8baaab96-1bf0-4df0-9372-5c5093748aab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='entry_212408']/div/div[2]/div/div/div[2]/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2e93902f-8788-4782-98ac-09817d792d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-heart</value>
+      <webElementGuid>7074c1fa-af2a-4aca-8978-5bc06d4479fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;entry_212408&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;product-layout product-grid no-desc col-xl-4 col-lg-4 col-md-4 col-sm-6 col-6&quot;]/div[@class=&quot;product-thumb&quot;]/div[@class=&quot;product-thumb-top&quot;]/div[@class=&quot;product-action&quot;]/button[@class=&quot;btn btn-wishlist wishlist-29&quot;]/i[@class=&quot;fas fa-heart&quot;]</value>
+      <webElementGuid>daa5ca5c-beff-41e6-9526-4abb49efe0e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='entry_212408']/div/div[2]/div/div/div[2]/button[2]/i</value>
+      <webElementGuid>835da230-5810-4a66-b678-bbcb82652565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/button[2]/i</value>
+      <webElementGuid>51f1ce21-db53-4dce-980c-40dee5f55cd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

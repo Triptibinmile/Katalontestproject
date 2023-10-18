@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Account    Success Your newsletter subs_ba20d1</name>
+   <tag></tag>
+   <elementGuidId>a041b4e1-408f-4003-88d0-d4d0f7d7fbdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='account-account']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#account-account</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e79176c8-94b1-4d9e-899a-63475e42e593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>account-account</value>
+      <webElementGuid>f37c9474-411b-4bcb-a56f-41afafee80ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container content pb-5</value>
+      <webElementGuid>bb3146e9-5a72-4061-9272-15d8778d6cc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    Account    Success: Your newsletter subscription has been successfully updated!    My Account    Edit your account information  Change your password  Modify your address book entries  Modify your wish list  Subscribe / unsubscribe to newsletter     My Orders    View your order history  Downloads  Your Reward Points  View your return requests  Your Transactions  Recurring payments     My Affiliate Account   Register for an affiliate account  
+    My Account  Edit Account  Password  Address Book  Wish List  Notification  Order History  Downloads  Recurring payments  Reward Points  Returns  Transactions  Newsletter  Logout   </value>
+      <webElementGuid>56f1c7c3-dcc0-4d33-8139-bde7f4deb06d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account-account&quot;)</value>
+      <webElementGuid>1c6db3ac-5c46-49ad-bba3-22f91becbba9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='account-account']</value>
+      <webElementGuid>7b1a1c67-28a3-40ca-b9be-ba79e2fb7e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div</value>
+      <webElementGuid>9c3bf0f0-49f5-4b0b-abaf-68607d1db097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAVE60'])[1]/following::div[1]</value>
+      <webElementGuid>79133bbe-3909-44fb-aaea-41bccd5cd24b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upto 60% Off'])[1]/following::div[1]</value>
+      <webElementGuid>cd31b691-57f4-46a5-b69d-1fda6f65d255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[5]/div</value>
+      <webElementGuid>b012c573-3f61-413c-94d8-0a81dc4794c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'account-account' and (text() = '    Account    Success: Your newsletter subscription has been successfully updated!    My Account    Edit your account information  Change your password  Modify your address book entries  Modify your wish list  Subscribe / unsubscribe to newsletter     My Orders    View your order history  Downloads  Your Reward Points  View your return requests  Your Transactions  Recurring payments     My Affiliate Account   Register for an affiliate account  
+    My Account  Edit Account  Password  Address Book  Wish List  Notification  Order History  Downloads  Recurring payments  Reward Points  Returns  Transactions  Newsletter  Logout   ' or . = '    Account    Success: Your newsletter subscription has been successfully updated!    My Account    Edit your account information  Change your password  Modify your address book entries  Modify your wish list  Subscribe / unsubscribe to newsletter     My Orders    View your order history  Downloads  Your Reward Points  View your return requests  Your Transactions  Recurring payments     My Affiliate Account   Register for an affiliate account  
+    My Account  Edit Account  Password  Address Book  Wish List  Notification  Order History  Downloads  Recurring payments  Reward Points  Returns  Transactions  Newsletter  Logout   ')]</value>
+      <webElementGuid>cf703a70-6451-49e8-a485-9082f4bee303</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

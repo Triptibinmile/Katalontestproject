@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_10 off or more</name>
+   <tag></tag>
+   <elementGuidId>6829f27f-cf84-4c72-b02c-a0a098c8f5e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mz-filter-panel-0-7']/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mz-filter-panel-0-7 > div.mz-filter-group-content > div.mz-filter-value > div.custom-control.custom-radio > label.custom-control-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5496f6b2-1250-4d14-bde6-3bb448bea7c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>mz-fd-0-10</value>
+      <webElementGuid>cdf8c320-6c9a-42a1-959e-8ad63c73e3d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>e022e2eb-b3fd-486f-9b58-bfcb037547a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10% off or more</value>
+      <webElementGuid>dbec64a7-65e3-4d1b-8076-9a53c6a581ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mz-filter-panel-0-7&quot;)/div[@class=&quot;mz-filter-group-content&quot;]/div[@class=&quot;mz-filter-value&quot;]/div[@class=&quot;custom-control custom-radio&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>386ab19f-9c15-4c1b-a072-b670b7df133e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mz-filter-panel-0-7']/div/div/div/label</value>
+      <webElementGuid>7cb3da50-6e5f-4756-b7f1-aefadc84a2e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discount'])[2]/following::label[1]</value>
+      <webElementGuid>ce5abc45-d826-4f33-9eb1-78aafced13b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XXL'])[2]/following::label[1]</value>
+      <webElementGuid>dcc03e79-4a67-438d-960d-31ad4717b969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating'])[2]/preceding::label[5]</value>
+      <webElementGuid>8a5a589e-2361-4cc9-b6ff-28e6bd4b3c0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[8]/div[2]/div/div/div/label</value>
+      <webElementGuid>ce8c1c4b-5508-4403-ace2-c2a59ed0bc35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '10% off or more' or . = '10% off or more')]</value>
+      <webElementGuid>706a305c-0442-4bbf-9d94-946172467622</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

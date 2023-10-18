@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Headphones</name>
+   <tag></tag>
+   <elementGuidId>6a6adce3-7dd6-460e-aa66-bf09ed40bf6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='entry281_216480']/div/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#entry281_216480 > div.menu-wraper.image-bottom.vertical > div.menu-items.d-flex.align-items-start > ul.nav.flex-column.vertical > li.nav-item > a.nav-link.icon-left.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7b21cd4e-fe7e-4261-8d2e-91de7f1600b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link icon-left text</value>
+      <webElementGuid>e5f8d3fc-a849-40e4-969f-e8e9e48f913d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ecommerce-playground.lambdatest.io/index.php?route=product/category&amp;path=25</value>
+      <webElementGuid>c430c331-6211-4fbe-a3b6-f892208933d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Headphones</value>
+      <webElementGuid>fb46634e-6e8b-4e41-a04b-9253f7590ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Headphones
+</value>
+      <webElementGuid>f7816958-87b7-4641-8189-b35c73f6bad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;entry281_216480&quot;)/div[@class=&quot;menu-wraper image-bottom vertical&quot;]/div[@class=&quot;menu-items d-flex align-items-start&quot;]/ul[@class=&quot;nav flex-column vertical&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link icon-left text&quot;]</value>
+      <webElementGuid>14a49da9-851c-473b-8fc0-aaffcf229b90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='entry281_216480']/div/div/ul/li/a</value>
+      <webElementGuid>22afc984-9cf7-4abe-86a9-d13d1a22b597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Headphones')]</value>
+      <webElementGuid>664b8c8d-005f-43d8-bc4d-7f259e11e7e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessories'])[1]/following::a[1]</value>
+      <webElementGuid>fba006f8-ab95-43f8-9605-3093d18c557c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lenovo'])[1]/following::a[1]</value>
+      <webElementGuid>9ff4b6a7-c8d3-4079-b1c0-859f9da7c46a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memory Card'])[1]/preceding::a[1]</value>
+      <webElementGuid>346ea6a5-01ca-4e5c-8f2b-382f4e085f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile cases'])[1]/preceding::a[2]</value>
+      <webElementGuid>fa513849-9e06-4efc-b9a6-3d010dc6f094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Headphones']/parent::*</value>
+      <webElementGuid>700df5bb-5ebc-47f6-8b58-aeebbc185b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://ecommerce-playground.lambdatest.io/index.php?route=product/category&amp;path=25')])[2]</value>
+      <webElementGuid>bb30f6ed-7790-4b38-94e4-aef98a0ce4d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li/a</value>
+      <webElementGuid>444e1114-a97a-4bec-87f8-95719389a0ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ecommerce-playground.lambdatest.io/index.php?route=product/category&amp;path=25' and @title = 'Headphones' and (text() = '
+Headphones
+' or . = '
+Headphones
+')]</value>
+      <webElementGuid>b8b03bdc-5cd4-42d7-8e62-396ad315314d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

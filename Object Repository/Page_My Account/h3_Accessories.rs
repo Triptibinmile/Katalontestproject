@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Accessories</name>
+   <tag></tag>
+   <elementGuidId>0044df3a-bbd9-4a5c-aca6-bbe96dc307a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='entry281_216480']/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#entry281_216480 > div.menu-wraper.image-bottom.vertical > h3.design-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>67ae5887-8522-442e-9419-1c49ae8cf83a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>design-title</value>
+      <webElementGuid>2bb64652-a4ca-43f3-898c-64a61718aaee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accessories</value>
+      <webElementGuid>0b212485-b73b-4de1-8ea7-514fd263274b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;entry281_216480&quot;)/div[@class=&quot;menu-wraper image-bottom vertical&quot;]/h3[@class=&quot;design-title&quot;]</value>
+      <webElementGuid>fcf0fed1-673b-4556-9717-13f2153965f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='entry281_216480']/div/h3</value>
+      <webElementGuid>4a5fd2fc-552c-474c-bbe5-522aec9709a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lenovo'])[1]/following::h3[1]</value>
+      <webElementGuid>dffe064a-15f0-4f3c-9af8-98fed40de02b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HP'])[1]/following::h3[1]</value>
+      <webElementGuid>396f2a93-bf65-4139-b098-b4113ccdc035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Headphones'])[1]/preceding::h3[1]</value>
+      <webElementGuid>901d3a1d-391c-46b0-b00a-d514d16a4be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memory Card'])[1]/preceding::h3[1]</value>
+      <webElementGuid>c3e54be8-5f2b-41fb-aa37-6ac67a13905c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accessories']/parent::*</value>
+      <webElementGuid>80e0abf5-c71f-4efb-af7a-09a22701201e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/h3</value>
+      <webElementGuid>4c0cd86a-ddc1-434d-9347-dd00fceeae65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Accessories' or . = 'Accessories')]</value>
+      <webElementGuid>2bb2bf77-37a1-47f7-8d1d-5357ab7c6716</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

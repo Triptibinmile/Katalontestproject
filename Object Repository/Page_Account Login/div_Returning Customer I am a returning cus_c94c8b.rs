@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Returning Customer I am a returning cus_c94c8b</name>
+   <tag></tag>
+   <elementGuidId>a7573d55-4847-4a5f-8a03-b5d8ed9fef1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b3840dd-4ebd-4716-abe1-830460713149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body p-4</value>
+      <webElementGuid>370ec57a-5a6a-4cf2-b6d7-11945a4e85c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Returning Customer I am a returning customer   E-Mail Address    Password  Forgotten Password   </value>
+      <webElementGuid>f0153775-64ae-4559-bfd1-d5c45313a415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body p-4&quot;]</value>
+      <webElementGuid>c4cec8d9-afc9-402a-941a-4d87b93ae0a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[2]/div/div</value>
+      <webElementGuid>1ac5505e-bb0a-41d1-baf1-ce0147cf24b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/following::div[3]</value>
+      <webElementGuid>b7cbd709-7b5c-40db-91ad-9dff7c1ecc4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Account'])[1]/following::div[3]</value>
+      <webElementGuid>f8bfa205-3066-4e82-b9e5-7d5ab5405900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>c9444e20-c494-45ec-b5b7-cf797ed2574b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Returning Customer I am a returning customer   E-Mail Address    Password  Forgotten Password   ' or . = ' Returning Customer I am a returning customer   E-Mail Address    Password  Forgotten Password   ')]</value>
+      <webElementGuid>d20347a3-051d-4dc6-aff6-3e7334917bd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

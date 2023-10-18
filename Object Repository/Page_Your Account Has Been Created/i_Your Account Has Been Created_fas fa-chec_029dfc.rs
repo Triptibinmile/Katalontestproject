@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Your Account Has Been Created_fas fa-chec_029dfc</name>
+   <tag></tag>
+   <elementGuidId>385dc9c8-8e9d-4f84-9f2b-a109141e96c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-check-circle.text-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/h1/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b29eeb29-2c62-4c51-bfcd-9e4b4affedf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-check-circle text-success</value>
+      <webElementGuid>0cb03696-0f3e-4467-a0e7-430d5a6fd8b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/h1[@class=&quot;page-title my-3&quot;]/i[@class=&quot;fas fa-check-circle text-success&quot;]</value>
+      <webElementGuid>400aaddc-1c70-4b99-b601-e538663edb34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/h1/i</value>
+      <webElementGuid>c8cbd043-f3b8-4a48-9e6e-afd0edde9554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/i</value>
+      <webElementGuid>6a4af85a-f912-4034-91a0-c55d96fbd0e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>bd17ac65-95cd-4b95-bdcb-409d21a0d2f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#entry_217824 > a.icon-left.icon.text-reset > span.icon.svg-icon > svg > use</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>a57a1afc-eecb-475c-8e5f-19604c229de8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>#svg607770ac6af90ecf46964e8f4f1e1ff7</value>
+      <webElementGuid>3e3b5049-81cb-4d51-90a2-df5497073ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;entry_217824&quot;)/a[@class=&quot;icon-left icon text-reset&quot;]/span[@class=&quot;icon svg-icon&quot;]/svg[1]/use[1]</value>
+      <webElementGuid>eb2f9ac0-68aa-47c0-816c-df72fb1fe04d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

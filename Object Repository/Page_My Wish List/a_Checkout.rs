@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Checkout</name>
+   <tag></tag>
+   <elementGuidId>810101ce-5f26-4d38-8afc-182e1c290795</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='notification-box-top']/div/div[2]/div[2]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col > a.btn.btn-secondary.btn-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>decc2b5b-93bb-4c18-ac63-d1f571b798da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary btn-block</value>
+      <webElementGuid>4c97b1c2-a633-4972-aa97-5baf9af62bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ecommerce-playground.lambdatest.io/index.php?route=checkout/checkout</value>
+      <webElementGuid>a5bbeeeb-4f23-44cb-9ff6-856ea9a0ccd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Checkout </value>
+      <webElementGuid>7fe1d30c-1c16-4c9f-a81e-cfbf46e2cc51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;notification-box-top&quot;)/div[@class=&quot;toast m-3 fade show&quot;]/div[@class=&quot;toast-body&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;col&quot;]/a[@class=&quot;btn btn-secondary btn-block&quot;]</value>
+      <webElementGuid>8c607100-5c84-4d4f-935b-3aff30ae135f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='notification-box-top']/div/div[2]/div[2]/div[2]/a</value>
+      <webElementGuid>2e80e427-427c-49bb-a62b-bf5b081869a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Checkout')]</value>
+      <webElementGuid>c90ff509-5f6a-4c9d-8b2e-4ec9e8150198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Cart'])[1]/following::a[1]</value>
+      <webElementGuid>01086160-381d-48d2-a6b8-afdf44124583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='shopping cart'])[1]/following::a[2]</value>
+      <webElementGuid>a175c152-240c-4de9-ab47-08779b6e31d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://ecommerce-playground.lambdatest.io/index.php?route=checkout/checkout')])[2]</value>
+      <webElementGuid>102ea445-1ad5-4cf2-ba7b-11527b8f54de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>bb3f1c11-64cb-4b75-80a3-40111474b36c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ecommerce-playground.lambdatest.io/index.php?route=checkout/checkout' and (text() = 'Checkout ' or . = 'Checkout ')]</value>
+      <webElementGuid>42c27842-ecf9-48b2-9b66-dab15a5c6e08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

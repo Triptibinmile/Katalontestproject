@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SHOP NOW</name>
+   <tag></tag>
+   <elementGuidId>c1ad238b-acf1-4b78-b5db-cbfdd3257c75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-lg.btn-outline-primary.ml-lg-auto.flex-shrink-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='entry_213247']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5a30c359-981a-41fa-a1c6-f0556423e845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a16980ea-fabf-4102-86d7-ae83536eb904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-outline-primary ml-lg-auto flex-shrink-0</value>
+      <webElementGuid>fd5f68e4-3216-430e-86ab-1fe462aa1558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SHOP NOW</value>
+      <webElementGuid>2152e36a-c2f5-495d-acb8-59ad7e1738bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;entry_213247&quot;)/div[@class=&quot;d-flex flex-column flex-lg-row align-items-sm-start align-items-lg-center&quot;]/a[@class=&quot;btn btn-lg btn-outline-primary ml-lg-auto flex-shrink-0&quot;]</value>
+      <webElementGuid>29ca97de-1274-474f-985d-01d43bee9f16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='entry_213247']/div/a</value>
+      <webElementGuid>85445d08-d67f-46f5-8c0a-3472ba7b17af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SHOP NOW')]</value>
+      <webElementGuid>c4c19b75-5e52-4362-b9f9-8ed3ae3dd390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upto 50% Off on Fully Automatic Top Load Washing Machine'])[1]/following::a[1]</value>
+      <webElementGuid>94986a4b-e72a-470b-921b-5310297db05b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::a[3]</value>
+      <webElementGuid>c6ddc94b-9884-40f7-a1df-ae4fee7b570e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Trending Categories'])[1]/preceding::a[1]</value>
+      <webElementGuid>49094708-3b20-4658-a28a-a9a0369c71f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desktops'])[3]/preceding::a[1]</value>
+      <webElementGuid>53dfc9c9-b883-4585-8381-745bce637233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SHOP NOW']/parent::*</value>
+      <webElementGuid>43d4d101-2ccf-4383-b881-66c4640c3f27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[31]</value>
+      <webElementGuid>141eb89e-8f77-424b-8407-03c471789331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/a</value>
+      <webElementGuid>46d24868-505c-4d70-831f-b54f23664690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'SHOP NOW' or . = 'SHOP NOW')]</value>
+      <webElementGuid>ed874625-6416-49d8-87a1-aad7e4e963a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

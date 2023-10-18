@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_E-Mail Address    Password  Forgotten _f85c1a</name>
+   <tag></tag>
+   <elementGuidId>264f6443-46c1-4369-9e10-705b197e1f76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@action='https://ecommerce-playground.lambdatest.io/index.php?route=account/login']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body.p-4 > form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>17c2b948-102e-477d-b2d8-deee3d5ee3bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>action</name>
+      <type>Main</type>
+      <value>https://ecommerce-playground.lambdatest.io/index.php?route=account/login</value>
+      <webElementGuid>bb552344-5594-43ed-9588-232c6a4693a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>method</name>
+      <type>Main</type>
+      <value>post</value>
+      <webElementGuid>beba9933-6311-4111-b4ce-c8157fe0d5ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>enctype</name>
+      <type>Main</type>
+      <value>multipart/form-data</value>
+      <webElementGuid>5bceadf7-ed2e-46a8-9a1e-ad39dae25867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  E-Mail Address    Password  Forgotten Password  </value>
+      <webElementGuid>c2f7c8fd-7c03-4532-999e-5d668691a21a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body p-4&quot;]/form[1]</value>
+      <webElementGuid>c59d896b-a4fd-467d-b717-6355047d50ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//form[@action='https://ecommerce-playground.lambdatest.io/index.php?route=account/login']</value>
+      <webElementGuid>724de6fc-39fc-4cdd-9586-af719b2af256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[2]/div/div/form</value>
+      <webElementGuid>270d077a-2d4e-44fd-b561-3bf894cf0a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am a returning customer'])[1]/following::form[1]</value>
+      <webElementGuid>5f4a3441-e922-476a-92e7-a00b520fd712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Returning Customer'])[1]/following::form[1]</value>
+      <webElementGuid>f2fda92c-193b-4595-9a6d-2efb16b4124b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/form</value>
+      <webElementGuid>91e44bf4-4c78-4acf-b920-09dc78d810ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = '  E-Mail Address    Password  Forgotten Password  ' or . = '  E-Mail Address    Password  Forgotten Password  ')]</value>
+      <webElementGuid>c2d4777e-0c46-4e33-849a-301057096c26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

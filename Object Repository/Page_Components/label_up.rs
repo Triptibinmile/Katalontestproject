@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_up</name>
+   <tag></tag>
+   <elementGuidId>c1027972-62ea-4000-8f53-c3dc55859759</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mz-filter-panel-0-8']/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mz-filter-panel-0-8 > div.mz-filter-group-content > div.mz-filter-value > div.custom-control.custom-radio > label.custom-control-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>927852c4-1f09-4b62-81d6-eead321933af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>mz-fr-0-4</value>
+      <webElementGuid>2b067cc8-0718-4edf-be0d-cf730e33b772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>9e545373-4ec1-4f66-b69f-99c66e3d9349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>        &amp; up
+</value>
+      <webElementGuid>df763bf4-bb43-4371-8138-ca9b419429c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mz-filter-panel-0-8&quot;)/div[@class=&quot;mz-filter-group-content&quot;]/div[@class=&quot;mz-filter-value&quot;]/div[@class=&quot;custom-control custom-radio&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>64e79d2d-cd0f-4a48-8b38-32bb38ab4fe5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mz-filter-panel-0-8']/div/div/div/label</value>
+      <webElementGuid>a16e45db-f9b7-41ed-adaa-98dedeedf570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating'])[2]/following::label[1]</value>
+      <webElementGuid>899d3665-c597-4ef4-8d1a-55d19112dcb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discount'])[2]/following::label[6]</value>
+      <webElementGuid>b3354fe2-6817-405e-8502-7996ed7140c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div/div/div/label</value>
+      <webElementGuid>1f17a59f-8c3e-4369-bce8-1335787c3eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '        &amp; up
+' or . = '        &amp; up
+')]</value>
+      <webElementGuid>464e69e2-96ee-4215-8d12-2ade3c47b051</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
