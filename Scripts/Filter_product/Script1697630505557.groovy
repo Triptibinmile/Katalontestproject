@@ -17,3 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://ecommerce-playground.lambdatest.io/index.php?route=account/login')
+
+WebUI.setText(findTestObject('Object Repository/Page_Account Login/input_E-Mail Address_email'), 'tripti@binmile.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Account Login/input_Password_password'), 'RigbBhfdqOBGNlJIWM1ClA==')
+
+WebUI.click(findTestObject('Object Repository/Page_Account Login/input_Forgotten Password_btn btn-primary'))
+
+WebUI.click(findTestObject('Object Repository/Page_My Account/span_Home'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/div_Next_hover-effect hover-effect-2'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Apple/input_to_mz_fpmax'), '200')
+
+WebUI.click(findTestObject('Object Repository/Page_Apple/div_to'))
+
+WebUI.takeScreenshotAsCheckpoint('Screenshot on filter')
+

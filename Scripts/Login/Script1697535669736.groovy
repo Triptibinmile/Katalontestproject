@@ -27,3 +27,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Account Login/inpu
 
 WebUI.click(findTestObject('Object Repository/Page_Account Login/input_Forgotten Password_btn btn-primary'))
 
+WebUI.takeScreenshotAsCheckpoint('Login successfully')
+

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>88761d82-165e-401e-ab41-80c2b937ceb1</webElementGuid>
+      <webElementGuid>38c9fa1e-77c9-47c6-99b8-96a3e5afacf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>title</value>
-      <webElementGuid>ac4ee4d6-89e9-4627-829f-59e2ba122eab</webElementGuid>
+      <webElementGuid>a4142255-0a92-404c-a66d-811263beaeb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <type>Main</type>
       <value> Home
 </value>
-      <webElementGuid>b0cb0f6c-cce4-48ed-bec2-b5b5ab101fef</webElementGuid>
+      <webElementGuid>ccfc24ca-1f3d-4239-8af6-d455227e9b9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;widget-navbar-217834&quot;)/ul[@class=&quot;navbar-nav horizontal&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;icon-left both nav-link&quot;]/div[@class=&quot;info&quot;]/span[@class=&quot;title&quot;]</value>
-      <webElementGuid>48f099da-d3f1-449c-b01b-7a0f3dd9a809</webElementGuid>
+      <webElementGuid>beb79378-0839-4c70-819e-4989491f9f7c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='widget-navbar-217834']/ul/li/a/div/span</value>
-      <webElementGuid>4e51744e-6782-4dff-bd38-2ae1e2e6223b</webElementGuid>
+      <webElementGuid>4f45e01d-7413-4e97-a993-835c2e42f2ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::span[8]</value>
-      <webElementGuid>0779f556-9ce6-48cc-9faa-4afde0752de3</webElementGuid>
+      <webElementGuid>a85d0dfd-e5a8-4b9a-bd89-d863cde77559</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Special'])[2]/preceding::span[1]</value>
-      <webElementGuid>23b34c8e-ea5e-48cd-84a6-9ddbcff23966</webElementGuid>
+      <webElementGuid>59d4b3aa-5029-41e4-92b5-5263ad4d16f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[2]/preceding::span[2]</value>
-      <webElementGuid>88b8dff7-5a82-4259-9702-26bb8021720c</webElementGuid>
+      <webElementGuid>310c7ec7-095f-419d-ad74-399a1c1eb05b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
-      <webElementGuid>b0ebcfdc-4b50-4f5a-a104-f659e2754a5a</webElementGuid>
+      <webElementGuid>9bd55991-6a60-43f3-99cb-6185592e5dc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/nav/div/ul/li/a/div/span</value>
-      <webElementGuid>5b39bb1c-87f2-4a67-8b35-3a9f50b9be07</webElementGuid>
+      <webElementGuid>a5a5ab80-55fc-43d3-9af3-9eaf1509cab3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,6 +105,6 @@
       <value>//span[(text() = ' Home
 ' or . = ' Home
 ')]</value>
-      <webElementGuid>7291685b-efda-4f60-a78e-77ccb71b518b</webElementGuid>
+      <webElementGuid>36c26157-30a8-46db-a7c6-df577793b968</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

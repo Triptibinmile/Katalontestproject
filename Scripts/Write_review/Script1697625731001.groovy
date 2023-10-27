@@ -39,3 +39,5 @@ WebUI.setText(findTestObject('Object Repository/Page_iMac/textarea_Write a revie
 
 WebUI.click(findTestObject('Object Repository/Page_iMac/button_Write Review'))
 
+WebUI.takeScreenshotAsCheckpoint('write_review')
+

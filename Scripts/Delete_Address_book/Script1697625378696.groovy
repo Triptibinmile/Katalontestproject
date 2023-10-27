@@ -31,7 +31,5 @@ WebUI.click(findTestObject('Object Repository/Page_Account Login/input_Forgotten
 
 WebUI.click(findTestObject('Object Repository/Page_My Account/a_Address Book'))
 
-WebUI.click(findTestObject('Object Repository/Page_Address Book/a_Delete'))
-
-WebUI.click(findTestObject('Object Repository/Page_Address Book/a_Delete_1'))
+WebUI.takeScreenshotAsCheckpoint('delete_cart')
 

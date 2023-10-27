@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b2e61eaf-afeb-4048-b04e-03fb1ab5421a</webElementGuid>
+      <webElementGuid>1a75004d-ff08-43da-af84-863fa7181a5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://ecommerce-playground.lambdatest.io/index.php?route=account/wishlist</value>
-      <webElementGuid>bdaf8784-bd1c-4eb7-b2e3-679c937a2271</webElementGuid>
+      <webElementGuid>487eae75-487e-4f2f-b28d-66f27f7176bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>list-group-item</value>
-      <webElementGuid>32f2bb87-6542-40d4-9c04-a3f5ff598017</webElementGuid>
+      <webElementGuid>760b98ab-b430-45f3-864f-68b64b771a76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Wish List</value>
-      <webElementGuid>09e34be4-5c1c-41ca-a367-ee09c6c2c1af</webElementGuid>
+      <webElementGuid>7d977a4a-d942-4e51-9513-7f9da7a1fc85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;column-right&quot;)/div[@class=&quot;list-group mb-3&quot;]/a[@class=&quot;list-group-item&quot;]</value>
-      <webElementGuid>cae00532-788f-40d0-8821-cc4381ca42a4</webElementGuid>
+      <webElementGuid>8759714f-88ce-4501-a1f3-0a9358770c62</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//aside[@id='column-right']/div/a[5]</value>
-      <webElementGuid>a3b7eced-efb1-4b88-a166-369191b6358c</webElementGuid>
+      <webElementGuid>66a041b3-744c-4bac-a70c-a03dcf438bfc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Wish List')]</value>
-      <webElementGuid>adbeb62a-b903-4913-942b-0a1cce46186f</webElementGuid>
+      <webElementGuid>efffe42b-51c8-4e1f-a3be-502f1f6f5c50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Book'])[1]/following::a[1]</value>
-      <webElementGuid>b1b050bb-c248-4413-8410-0601719e00fc</webElementGuid>
+      <webElementGuid>aa5af2c3-c030-4ee9-8b0f-fcf41e9bd8a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::a[2]</value>
-      <webElementGuid>6834fa87-371e-4f8e-84d2-8ccd59320a4a</webElementGuid>
+      <webElementGuid>3c5011d2-b2ff-42b8-a553-92d80c32ddc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification'])[1]/preceding::a[1]</value>
-      <webElementGuid>191a1cd8-500e-4173-b537-487cd62463bd</webElementGuid>
+      <webElementGuid>3bc8e330-a59b-4d7c-9e73-826d7365e45d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Order History'])[1]/preceding::a[2]</value>
-      <webElementGuid>6b70e9f6-398b-440e-a2c9-23dad64d2821</webElementGuid>
+      <webElementGuid>b8e1ff45-55e2-4c27-9529-dd436f25f59b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Wish List']/parent::*</value>
-      <webElementGuid>2a7aa65f-bb20-40b7-91ff-d182fbbf05d8</webElementGuid>
+      <webElementGuid>c0d40bcd-720f-4944-af26-3b239aa34dec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://ecommerce-playground.lambdatest.io/index.php?route=account/wishlist')])[4]</value>
-      <webElementGuid>cefa5ccb-2013-4849-9ff0-2d1c72f6da97</webElementGuid>
+      <webElementGuid>d2a7bdda-e8ff-4ea2-9d30-0e0735729096</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//aside/div/a[5]</value>
-      <webElementGuid>1e81a3b3-8b6c-42a6-9141-12c270dd5c06</webElementGuid>
+      <webElementGuid>c875fe68-555f-4688-837d-9b64cbdb94ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://ecommerce-playground.lambdatest.io/index.php?route=account/wishlist' and (text() = ' Wish List' or . = ' Wish List')]</value>
-      <webElementGuid>7a40139d-ea29-4b62-b4d7-5bdab687a781</webElementGuid>
+      <webElementGuid>af52d503-461b-4d29-be4e-1e296ac25037</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -25,3 +25,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Your Store/input_All Catego
 
 WebUI.click(findTestObject('Object Repository/Page_Your Store/button_Search'))
 
+WebUI.takeScreenshotAsCheckpoint('search product')
+

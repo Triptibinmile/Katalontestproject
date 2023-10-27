@@ -43,3 +43,5 @@ WebUI.click(findTestObject('Object Repository/Page_Your order has been placed/h1
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Your order has been placed/h1_Your order has been placed'))
 
+WebUI.takeScreenshotAsCheckpoint('order_placed')
+

@@ -31,3 +31,5 @@ WebUI.click(findTestObject('Object Repository/Page_My Account/a_Order History'))
 
 WebUI.click(findTestObject('Object Repository/Page_Order History/a_85.00_btn btn-info'))
 
+WebUI.takeScreenshotAsCheckpoint('order_history')
+

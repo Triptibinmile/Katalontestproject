@@ -39,3 +39,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Shopping Cart/input_Product
 
 WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/i_Product 1_fas fa-sync-alt'))
 
+WebUI.takeScreenshotAsCheckpoint('view_product_cart')
+

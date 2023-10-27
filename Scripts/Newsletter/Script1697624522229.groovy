@@ -35,3 +35,5 @@ WebUI.click(findTestObject('Object Repository/Page_My Account/div_Account    Suc
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_My Account/div_Success Your newsletter subscription ha_2d6348'))
 
+WebUI.takeScreenshotAsCheckpoint('screenshot')
+
