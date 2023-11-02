@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_to</name>
+   <tag></tag>
+   <elementGuidId>5e4bb280-23ca-4c67-9dc7-7a9d593373fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mz-filter-panel-0-0']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mz-filter-panel-0-0 > div.mz-filter-group-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3baa0c64-462c-4e57-87a5-87905ccdf824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mz-filter-group-content</value>
+      <webElementGuid>3713479d-f46e-44bc-b90d-8dc09f8d6186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    to   </value>
+      <webElementGuid>22948d7e-3599-4783-a831-04de9d17226b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mz-filter-panel-0-0&quot;)/div[@class=&quot;mz-filter-group-content&quot;]</value>
+      <webElementGuid>2f977c78-29de-46fb-8af6-9c8be4cfaf24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mz-filter-panel-0-0']/div</value>
+      <webElementGuid>4dffb343-f039-4bc2-b413-ecc5bc6d38d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[2]/following::div[2]</value>
+      <webElementGuid>b95ef88d-0217-47aa-92ec-55fbcbe89ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[2]/following::div[5]</value>
+      <webElementGuid>4cdfafba-8b3d-4be5-bf37-d0eb02dc07aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[3]/preceding::div[4]</value>
+      <webElementGuid>c1ff9c35-db1b-4139-9172-386952ceb10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>743fa9f9-bba0-43ef-8c1d-50d1779c7feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '    to   ' or . = '    to   ')]</value>
+      <webElementGuid>cf70f49f-bfc3-40b4-8060-f5259cdecea3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

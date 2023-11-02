@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Next_hover-effect hover-effect-2</name>
+   <tag></tag>
+   <elementGuidId>fbf330b8-79f3-4262-9ce5-42dbd0761109</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='entry_213244']/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.hover-effect.hover-effect-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3433697a-28d1-404e-8d2b-19bc3eb2c5a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover-effect hover-effect-2</value>
+      <webElementGuid>5ef63399-b488-4fe3-b97c-64a0acbcbf24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;entry_213244&quot;)/a[@class=&quot;d-block&quot;]/div[@class=&quot;hover-effect hover-effect-2&quot;]</value>
+      <webElementGuid>71aee079-4a76-4dd5-80d4-efe5a857f087</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='entry_213244']/a/div</value>
+      <webElementGuid>872788f3-df0f-4bf4-b4cd-b013929c545b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[6]</value>
+      <webElementGuid>140ffa4f-3c42-4ccf-8818-354fefab93bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::div[6]</value>
+      <webElementGuid>10429c52-f65b-4f7e-acdd-e4d44c198372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upto 50% Off on Fully Automatic Top Load Washing Machine'])[1]/preceding::div[3]</value>
+      <webElementGuid>30a4b948-96cb-4c89-814e-224a6b434d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Trending Categories'])[1]/preceding::div[7]</value>
+      <webElementGuid>b716f5a1-0e62-4ff5-880f-5fe2c867bf3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a/div</value>
+      <webElementGuid>a2ab9c1e-c489-47c4-9849-064d68898b43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

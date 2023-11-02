@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_150.00_btn btn-light btn-sm text-danger</name>
+   <tag></tag>
+   <elementGuidId>cf03c90a-45d1-402d-949d-002101ebe63b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/table/tbody/tr[4]/td[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td.text-right.text-nowrap > a.btn.btn-light.btn-sm.text-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b683a126-52e3-466f-b18d-1c54440bb12f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ecommerce-playground.lambdatest.io/index.php?route=account/wishlist&amp;remove=34</value>
+      <webElementGuid>184cd07e-026e-4386-82c7-9d507e8aa0ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>86b7562f-1637-4467-994c-81c789ee5042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light btn-sm text-danger</value>
+      <webElementGuid>342580e2-d669-42f4-b6ae-9446d0e286bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original-title</name>
+      <type>Main</type>
+      <value>Remove</value>
+      <webElementGuid>199a21e2-0c2a-47f1-a5bc-e5c239907f24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip184105</value>
+      <webElementGuid>1e1983d7-e77d-4ba5-83ef-a10077371227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-hover border&quot;]/tbody[1]/tr[4]/td[@class=&quot;text-right text-nowrap&quot;]/a[@class=&quot;btn btn-light btn-sm text-danger&quot;]</value>
+      <webElementGuid>1e5e00c9-319d-4e49-b8bc-fbc909c6b9f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/table/tbody/tr[4]/td[6]/a</value>
+      <webElementGuid>7705b516-1e66-4e18-a248-4f466d7ac581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$150.00'])[1]/following::a[1]</value>
+      <webElementGuid>20fa9634-5e2d-46ca-a50f-7bb158fcb5a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In Stock'])[4]/following::a[1]</value>
+      <webElementGuid>c8922464-084e-42ee-b7fb-7b4068867899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iMac'])[1]/preceding::a[2]</value>
+      <webElementGuid>8fbb090b-0eff-4e13-bdd9-d9f86e63d826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product 14'])[1]/preceding::a[3]</value>
+      <webElementGuid>d80023be-7cd9-4d47-978a-8d750248b498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ecommerce-playground.lambdatest.io/index.php?route=account/wishlist&amp;remove=34')]</value>
+      <webElementGuid>0c67d9cb-dacc-4fff-8761-44a6db2e875c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[6]/a</value>
+      <webElementGuid>f60c4154-2e46-46c1-a101-9fd4d0f990b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ecommerce-playground.lambdatest.io/index.php?route=account/wishlist&amp;remove=34']</value>
+      <webElementGuid>b00c0ea1-5493-4fae-bdc7-a54f81813599</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
